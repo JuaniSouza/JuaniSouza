@@ -20,8 +20,8 @@ Autodidacta, estudiante de programación y creador de apps y juegos desde Buenos
 - 🎓 Estudiando la **Tecnicatura Superior en Programación** en **UTN**
 - 📜 Certificado **Full Stack Developer** en **Digital House** (Java/Spring Boot, Docker, AWS, React, MySQL)
 - 📱 Me especializo en **React Native / Expo**, **Node.js**, **TypeScript** y **Firebase**
-- 🤖 Uso herramientas de IA en mi flujo de desarrollo para construir más rápido
-- 📍 Caseros, Buenos Aires, Argentina
+- 🤖 Uso IA todos los días en mi flujo de desarrollo (**ChatGPT** y **Claude**) para planificar, programar, depurar y construir más rápido
+- 📍 Buenos Aires, Argentina
 
 ## 🛠️ Proyectos destacados
 
@@ -29,8 +29,6 @@ Autodidacta, estudiante de programación y creador de apps y juegos desde Buenos
 |---|---|---|
 | **Jings Studio** | Mi estudio indie: apps y proyectos web publicados | [jingsstudios.com](https://jingsstudios.com) |
 | **LoLChallenge** | Proyecto web bajo Jings Studio | [lolchallenge.net](https://lolchallenge.net) |
-| **ColorFusion** | Juego mobile | _agregá el link acá_ |
-| **TypeRush** | Juego de tipeo | _agregá el link acá_ |
 
 ## 🧰 Stack
 
@@ -59,6 +57,11 @@ Autodidacta, estudiante de programación y creador de apps y juegos desde Buenos
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+**Inteligencia Artificial**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 
 ## 📊 GitHub Stats
 
