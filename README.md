@@ -64,8 +64,8 @@ Autodidacta, estudiante de programación y creador de apps y juegos desde Buenos
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=juanisouza&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanisouza&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
